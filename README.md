@@ -27,9 +27,9 @@ Figma, Google Forms, Miro
 Introduction to Human-Computer Interaction (IHCI), IIIT Delhi
 
 ## Team Members
-Diksha Kaushik
-Dalvin Thomas
-Akshit Yadav
-Bhumik Dhar
-Faizan Chaudhary
-Harish Kumar
+- Diksha Kaushik
+- Dalvin Thomas
+- Akshit Yadav
+- Bhumik Dhar
+- Faizan Chaudhary
+- Harish Kumar
